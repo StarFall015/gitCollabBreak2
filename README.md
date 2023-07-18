@@ -1,3 +1,3 @@
 # This is a git repository to understand collaboration
 
-Me and Harry have been using this repository to gain a further understanding of how Git and Github enable effective collaboration across teams in an organisation.
+Me and Harry have been using this repository to gain a further understanding of how Git and Github enable effective collaboration across teams in an organisation. Through working on this repository we have learned how to work with branches and pull requests and how this enables teams to prevent major bugs and other issues by requiring other contributors to look over the work before it can be merged into the main working branch. 
